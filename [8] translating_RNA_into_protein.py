@@ -43,3 +43,5 @@ def codons_slicing(dna):
     return "".join(protein)
 print(codons_slicing("AUGGCCAUGGCGCCCAGAACUGAGAUCAAUAGUACCCGUAUUAACGGGUGA"))
 
+# using slicing take way shorter time than wrap function
+
