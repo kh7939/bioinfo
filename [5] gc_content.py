@@ -25,7 +25,7 @@ def dictionary(result):
 
 # now going to find max gc content with key from the dictionary
 # max function can have 'key=condition' that will find max value based on the condition
-# {dictionary}.get will display a value of a key 
+# {dictionary}.get(key) will display a value of the key 
 
 print(max(dictionary('rosalind_gc.txt'), key=dictionary('rosalind_gc.txt').get)[1:]+'\n'+ str(max(dictionary('rosalind_gc.txt').values())))
 
