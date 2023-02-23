@@ -15,7 +15,7 @@ using [dictionary] and slicing [::-1] to populate a string's complementary and r
 
 [4] Fibonacci rabbit offspring
 
-working with Fibonacci to caclculate pairs of rabbits reporduction
+working with Fibonacci to calculate pairs of rabbits reporduction
 
 [5] GC content
 
