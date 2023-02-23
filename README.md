@@ -33,5 +33,4 @@ homo_D = PP / hetero = Pp / homo_R = pp
 
 [8] Translating RNA into protein
 
-sets of 3 RNA bases into corresponding protein, using textwrap & wrap function and for loop to convert
-the RNA bases into proteins
+sets of 3 RNA bases into corresponding protein, using textwrap & wrap function and for loop to convert the RNA bases into proteins
