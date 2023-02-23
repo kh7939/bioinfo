@@ -18,20 +18,20 @@ codons = {"UUU":"F", "CUU":"L", "AUU":"I", "GUU":"V",
         "UGG":"W", "CGG":"R", "AGG":"R", "GGG":"G"}
 
 # using textwrap method
+# consider 'Stop' condon in real world : possibly if condons == "Stop" break
 def codons_textwrap(dna):
     protein = []
     wrap_txt = wrap(dna,3)
 
     for i in range(len(wrap_txt)):
-        if codons[wrap_txt[i]] == "Stop":
-            break
-        else:    
+        if codons[wrap_txt[i]] != "Stop"    
             protein.append(codons[wrap_txt[i]])
     return "".join(protein)        
 
 print(codons_textwrap("AUGGCCAUGGCGCCCAGAACUGAGAUCAAUAGUACCCGUAUUAACGGGUGA"))
 
 # using slicing method
+# consider 'Stop' condon in real world : possibly if condons == "Stop" break
 def codons_slicing(dna):
     setofthree = []
     protein = []
