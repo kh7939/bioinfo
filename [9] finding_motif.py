@@ -1,4 +1,5 @@
-# a DNA motif is defined as a nucleic acid sequence pattern that has some biological significance such as being DNA binding sites for a regulatory protein, i.e., a transcription factor
+# a DNA motif is defined as a nucleic acid sequence pattern that has some biological significance 
+# such as being DNA binding sites for a regulatory protein, i.e., a transcription factor
 
 def motif(dna, to_find):
     location = []
