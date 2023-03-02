@@ -24,7 +24,7 @@ open and read sequencing result data, and caclulate GC %
 [6] Hamming distance counting point mutation
 
 compare two different strings to find out differecnes which represent mutation
-*In order to make Hammind distance work, the two differenct strings have to be the same length*
+(In order to make Hamming distance work, the two differenct strings have to be the same length)
 
 [7] Mendels first law dominant
 
