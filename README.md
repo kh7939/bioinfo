@@ -38,3 +38,8 @@ sets of 3 RNA bases into corresponding protein, using textwrap & wrap function a
 [i] Finding a Motif in DNA
 
 find a target sequence in a given DNA string using for loop and slicing, return their locations
+
+[j] DNA_consensus_and_profile
+
+line up all given strings by rows, but read bases by columns and find the most frequent base
+
