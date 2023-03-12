@@ -9,7 +9,6 @@ total = homo_D + hetero + homo_R
 
 def total_cases(k,m,n):
     total_cases = int()
-
     for i in range((k+m+n)-1):
         x = (k+m+n) - i
         total_cases += (x-1)
@@ -18,7 +17,6 @@ def total_cases(k,m,n):
 
 def homo_D_and_any(k):
     homo_D_cases = int()
-
     for i in range(k):
         homo_D_cases += ((total-1)-i)
     return homo_D_cases * 4
@@ -26,7 +24,6 @@ def homo_D_and_any(k):
 
 def hetero_hetero(m):
     hetero_cases = int()
-
     for i in range(m-1):
         x = m - i
         hetero_cases += (x-1)
