@@ -43,3 +43,7 @@ find a target sequence in a given DNA string using for loop and slicing, return 
 
 line up all given strings by rows, but read bases by columns and find the most frequent base
 
+[k] Fibonacci rabbit offsprings with mortal
+
+advanced sequence of work [d]; supposed rabbits die after a specific period
+
