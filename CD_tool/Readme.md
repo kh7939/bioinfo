@@ -29,6 +29,6 @@ DNA sequence
 - Aminoacids Sequence from DNA
 - Codon frequency (L)
 - Reading frames
-- All proteins in 6 open reading frames
+- All proteins in 6 reading frames
 
 
