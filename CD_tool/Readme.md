@@ -11,3 +11,7 @@ DNA sequence
 - DNA string (Complement and Reverse complement)
 - GC content
 - (adding more)
+
+'''
+asdadasd
+'''
