@@ -7,7 +7,7 @@ rndDNAStr = "".join([random.choice(Nucleotides) for nuc in range(77)])
 
 DNAstr = validateSeq(rndDNAStr)
 
-print(f"\nSequence: {colored(DNAstr)}\n")
+print(f"Sequence: {colored(DNAstr)}\n")
 print(f"[1] + Sequence Length: {len(DNAstr)}\n")
 print(colored(f"[2] + Nueclotide Frequency: {countNucFrequency(DNAstr)}\n"))
 
