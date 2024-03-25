@@ -3,7 +3,7 @@ import random
 from utilities import colored
 
 
-rndDNAStr = "".join([random.choice(Nucleotides) for nuc in range(200)])
+rndDNAStr = "".join([random.choice(Nucleotides) for nuc in range(77)])
 
 DNAstr = validateSeq(rndDNAStr)
 
