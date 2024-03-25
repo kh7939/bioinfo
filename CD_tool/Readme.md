@@ -1,6 +1,6 @@
 # Introduction
 A tool that I have been working on. It will generate some useful output with DNA sequence input.
-![main_example](https://github.com/kh7939/bioinfo/assets/117690449/dfffdce9-d6c7-4691-8454-9e0fd7c70ea1)
+![main_example](https://github.com/kh7939/bioinfo/assets/117690449/cb742b3e-c029-43c6-909b-e25cf25a63c1)
 
 # How to execute (Example on Linux terminal)
 ```
