@@ -12,8 +12,8 @@ DNA sequence
 - GC content
 - (adding more)
 
-'''
+```
 function test() {
 copythis test plaese;
 }
-'''
+```
