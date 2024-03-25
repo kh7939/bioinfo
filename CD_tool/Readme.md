@@ -13,5 +13,7 @@ DNA sequence
 - (adding more)
 
 '''
-asdadasd
+function test() {
+copythis test plaese;
+}
 '''
