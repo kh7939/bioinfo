@@ -28,8 +28,8 @@ for frame in gen_reading_frames(DNAstr):
     print(frame)
    
 
-test_rf_frame = ['V', 'F', 'S', 'Q', 'S', 'H', 'N', 'R', 'R', 'M', 'V', 'P', 'S', 'S', 'N', 'V', 'Y', 'S', 'S', 'L', 'G', 'S', 'G', 'T', 'D', 'S', 'E', 'N', 'R', 'G', 'C', 'S', '_', 'Y', 'N', 'R', 'S', 'L', 'G', 'D', 'L', 'Y', 'T', 'E', 'L', 'M', 'F', 'E', 'A', 'L', 'H', 'P', 'T', 'L', 'I', 'A', 'Y', 'H', '_', 'E', 'D', 'N', 'H', 'I', 'S', 'S', 'E', 'Q', 'Y', 'Q', 'S', 'L', 'R', 'P', 'V', 'E', 'I', 'V', 'E', 'P', 'R', 'D', 'I', 'S', 'G', 'S', 'G', 'I', 'C', 'M', 'V', 'S', 'R', 'P', 'M', 'F', 'C', '_', 'K', 'T']
-print(proteins_from_rf(test_rf_frame))
+#test_rf_frame = ['V', 'F', 'S', 'Q', 'S', 'H', 'N', 'R', 'R', 'M', 'V', 'P', 'S', 'S', 'N', 'V', 'Y', 'S', 'S', 'L', 'G', 'S', 'G', 'T', 'D', 'S', 'E', 'N', 'R', 'G', 'C', 'S', '_', 'Y', 'N', 'R', 'S', 'L', 'G', 'D', 'L', 'Y', 'T', 'E', 'L', 'M', 'F', 'E', 'A', 'L', 'H', 'P', 'T', 'L', 'I', 'A', 'Y', 'H', '_', 'E', 'D', 'N', 'H', 'I', 'S', 'S', 'E', 'Q', 'Y', 'Q', 'S', 'L', 'R', 'P', 'V', 'E', 'I', 'V', 'E', 'P', 'R', 'D', 'I', 'S', 'G', 'S', 'G', 'I', 'C', 'M', 'V', 'S', 'R', 'P', 'M', 'F', 'C', '_', 'K', 'T']
+#print(proteins_from_rf(test_rf_frame))
 
 print('\n[10] + All prots in 6 open reading frames:')
 for prot in all_porteins_from_orfs(DNAstr, 0, 0, True):
