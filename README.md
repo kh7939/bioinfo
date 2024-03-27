@@ -1,5 +1,5 @@
 # CD_tool
-Central dogma tool featuring transcription to translation
+Central dogma tool featuring transcription to translation<br>
 Example↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 ![main_example](https://github.com/kh7939/bioinfo/assets/117690449/c7960218-8374-4666-ac8b-9b1307515e29)
 
