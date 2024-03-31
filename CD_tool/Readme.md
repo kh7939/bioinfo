@@ -31,4 +31,5 @@ DNA sequence
 - All proteins in 6 reading frames
 
 # Reference
+[rebelScience](https://www.youtube.com/c/rebelCoderBio/videos)
 
